@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/PC/CLionProjects/proj4Second/main.cpp
+string
+-
+ttree.h
+C:/Users/PC/CLionProjects/proj4Second/ttree.h
+
+C:/Users/PC/CLionProjects/proj4Second/ttree.cpp
+ttree.h
+C:/Users/PC/CLionProjects/proj4Second/ttree.h
+
+C:/Users/PC/CLionProjects/proj4Second/ttree.h
+iostream
+-
+list
+-
+
